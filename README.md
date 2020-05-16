@@ -1,2 +1,4 @@
 # PicoCTF19
-PicoCTF 2019 Challenges
+Write up of PicoCTF 2019 Challenges
+
+Try them here! https://picoctf.com/
