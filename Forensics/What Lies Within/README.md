@@ -2,11 +2,11 @@
 
 ## Description
 
-Theres something in the building. Can you retrieve the flag?
+There's something in the building. Can you retrieve the flag?
 
 ## Hints
 
-- There is data encoded somewhere, there might be an online decoder
+There is data encoded somewhere, there might be an online decoder
 
 ## Points
 150
